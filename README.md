@@ -2,7 +2,7 @@
 
 ### About Me
 I'm an aspiring Data Scientist with a passion for Machine Learning, Programming and Data-Driven Decision-Making.
-I have fundamental experience in programming, data analysis, data visualization, machine learning, neural networks and NLP and am currently on the lookout for a position as a data scientist.
+I have fundamental experience in programming, data analysis, data visualization, machine learning, neural networks and NLP.
 
 ### 🛠️ Technical Skills
 - Programming Languages: Python, SQL

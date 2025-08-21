@@ -53,8 +53,8 @@ In addition to my technical skills, I bring a strong set of soft skills that are
 - Generative AI with LLMs
 - Natural Language Processing with Python. Introduction to Transformers
 - The power of statistics - Descriptive and Inferential Statistics using Python
-- StackFuel: Data Scintist - Focus Python / Learn to implement data models with Python to predict different business scenarios and how to implement and optimize supervised and unsupervised machine learning algorithms. Build skills in common visualization methods.
-- StackFuel: Data Analyst - Focus Python / Learn to perform advanced data analyses and how to use the programming language to analyze data and create effective visualizations.
+- StackFuel: Data Scientist - Focus Python / I learned to implement data models with Python to predict different business scenarios and how to implement and optimize supervised and unsupervised machine learning algorithms. Also built skills in common visualization methods.
+- StackFuel: Data Analyst - Focus Python / I learned to perform advanced data analysis and use Python to analyze data and create effective visualizations.
 
 ### Get in Touch
 I'm always open to interesting conversations and opportunities for collaboration. If you'd like to connect with me or learn more about my work, feel free to reach out.
